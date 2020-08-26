@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+}
+.titel{
+    width: 532px;
+    padding: 20px;
+    background-color: green;
+    margin-bottom: 0;
+    color: white;
+}
+.month{
+    background-color: rgb(168, 186, 238);
+
+}
+th,td{
+    border: rgb(36, 65, 32) solid;
+    text-align-last: center;
+    padding: 20px;
+}
+td:hover{
+background-color: olive;
+color: papayawhip;
+cursor: pointer;
+}
+td{
+    background-color: rgb(173, 167, 158);
+}
